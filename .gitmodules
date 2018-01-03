@@ -1,0 +1,4 @@
+[submodule "themes/hugo-identity-theme"]
+	path = themes/hugo-identity-theme
+	url = https://github.com/alzadude/hugo-identity-theme
+	branch = fontawesome-v5
