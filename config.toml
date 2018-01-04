@@ -41,18 +41,19 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
   # Personal data
   [params.personal]
     # If name is not set, author is used
-    name = "DJ Alza"
+    name = "Alex Coyle"
     # Avatars can be written to images/avatars/
-    avatar = "djalza.jpg"
-    position = "Sell Yourself!"
-    livesIn = "[London, UK](#some-maps-url)"
+    avatar = "logo.svg"
+    position = "Ready to Rock your Party!"
+    livesIn = "[London, UK](https://www.google.co.uk/maps/place/London)"
     scope = [
-        "Occasional DJ at [Drink, Shop & Do](#)",
-        "Assistant Organizer for [Developers who DJ](#)",
-        "Supporter of [Native Instruments](#)"
+        "Occasional DJ at [Drink, Shop & Do](http://drinkshopdo.co.uk)",
+        "Assistant Organizer for [Developers who DJ](https://www.meetup.com/Developers-who-DJ)",
+        "Fan of [Native Instruments](https://www.native-instruments.com)"
       ]
-    biography = """TODO: short version of bio from Mixcloud  
-Even new lines and other markdown styles are working within the bio."""
+    biography = """Player of 80s/90s/00s/10s Pop/R&B/EDM, 
+and dabbler in Disco/House/Techno..
+Please check out my DJ sets on [Mixcloud](https://www.mixcloud.com/dj-alza/) :)"""
 
   # Contact form settings
 
