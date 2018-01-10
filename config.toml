@@ -41,7 +41,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
   # Personal data
   [params.personal]
     # If name is not set, author is used
-    name = "Alex Coyle"
+    name = "DJ ALZA"
     # Avatars can be written to images/avatars/
     avatar = "logo.svg"
     position = "Ready to Rock your Party!"
