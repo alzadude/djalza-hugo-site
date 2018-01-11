@@ -33,10 +33,19 @@ body {
     box-shadow: 0 0 0 0.1em #c8cccf;
 }
 
-/* Type */
-body, input, select, textarea {
+body {
     color: #c8cccf;
     font-family: "Open Sans", serif;
+}
+
+input:not([type]),
+input[type="password"],
+input[type="email"],
+input[type="tel"],
+select,
+textarea {
+  color: #414f57;
+  font-family: "Open Sans", serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -56,4 +65,8 @@ ul.icons li a:before {
 ul.icons li a:hover:before {
     color: #ff7496;
     text-shadow: none;
+}
+
+button {
+    color: #c8cccf !important;
 }
