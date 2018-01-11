@@ -85,8 +85,8 @@ Please check out my DJ sets on [Mixcloud](https://www.mixcloud.com/dj-alza/) :)"
     emailPlaceholder = "Email"
     messagePlaceholder = "Message"
     buttonText = "Send it"
-    success = "Thank you for contacting us."
-    error = "Message could not be send. Please contact us at "
+    success = "Thank you for getting in touch!"
+    error = "The message could not be sent. Please send an email to hello@djalza.com :)"
 
     # Google invisible captcha
     #[params.contact.captcha]
