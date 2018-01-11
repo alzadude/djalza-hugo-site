@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://djalza.com" #without ending slash
+baseurl = "http://www.djalza.com" #without ending slash
 languageCode = "en-gb"
 title = "DJ ALZA"
 theme = "hugo-identity-theme"
