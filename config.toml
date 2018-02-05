@@ -149,3 +149,9 @@ Please check out my DJ sets on [Mixcloud](https://www.mixcloud.com/dj-alza/) :)"
   #  domain = "www.example.com"
   #  # Optional integrity check hash
   #  hash = "sha512-RfeD0pacGTqy9m7U6PgehQfS4cc7SIt+e+P+H5e848kEvB/RW84CUGO3O4O3LNbxjevym6KPUZ8muPsMrI8WIw=="
+
+  [params.opengraph]
+    description = "Ready to Rock your Party!"
+    image = "logo.png"
+    imageWidth = 300
+    imageHeight = 300
