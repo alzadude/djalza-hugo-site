@@ -70,3 +70,8 @@ ul.icons li a:hover:before {
 button {
     color: #c8cccf !important;
 }
+
+#footer {
+    color: #414f57;
+    font-family: "Open Sans", serif;
+}
