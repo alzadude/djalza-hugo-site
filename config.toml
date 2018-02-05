@@ -43,7 +43,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     # If name is not set, author is used
     name = "DJ ALZA"
     # Avatars can be written to images/avatars/
-    avatar = "logo.svg"
+    avatar = "logo_no_text.svg"
     position = "Ready to Rock your Party!"
     livesIn = "[London, UK](https://www.google.co.uk/maps/place/London)"
     scope = [
