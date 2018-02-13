@@ -51,9 +51,9 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
         "Assistant Organizer for [Developers who DJ](https://www.meetup.com/Developers-who-DJ)",
         "Fan of [Native Instruments](https://www.native-instruments.com)"
       ]
-    biography = """Player of 80s/90s/00s/10s Pop/R&B/EDM, 
+    biography = """Player of 80s/90s/00s Pop/R&B/EDM, 
 and dabbler in Disco/House/Techno..
-Please check out my DJ sets on [Mixcloud](https://www.mixcloud.com/dj-alza/) :)"""
+Check me out on [Mixcloud](https://www.mixcloud.com/dj-alza/) :)"""
 
   # Contact form settings
 
