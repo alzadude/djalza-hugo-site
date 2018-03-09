@@ -47,12 +47,12 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     position = "Ready to Rock your Party!"
     livesIn = "[London, UK](https://www.google.co.uk/maps/place/London)"
     scope = [
-        "Occasional DJ at [Drink, Shop & Do](http://drinkshopdo.co.uk)",
-        "Assistant Organizer for [Developers who DJ](https://www.meetup.com/Developers-who-DJ)",
-        "Fan of [Native Instruments](https://www.native-instruments.com)"
+        "Occasional DJ at [Drink, Shop & Do](http://www.drinkshopdo.co.uk)",
+        "Unofficial DJ for [GoodGym](http://www.goodgym.org) events and race after-parties", 
+        "Assistant Organizer for [Developers who DJ](http://www.meetup.com/Developers-who-DJ)"
       ]
-    biography = """Player of 80s/90s/00s Pop/R&B/EDM, 
-and dabbler in Disco/House/Techno..
+    biography = """Player of 80s/90s/00s Pop/Disco/R&B/EDM, 
+and dabbler in House/Techno/Trance..
 Check me out on [Mixcloud](https://www.mixcloud.com/dj-alza/) :)"""
 
   # Contact form settings
