@@ -48,7 +48,8 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     livesIn = "[London, UK](https://www.google.co.uk/maps/place/London)"
     scope = [
         "Occasional DJ at [Drink, Shop & Do](http://www.drinkshopdo.co.uk)",
-        "Unofficial DJ for [GoodGym](http://www.goodgym.org) events and race after-parties", 
+        "Unofficial DJ for [GoodGym](http://www.goodgym.org) events and race after-parties",
+        "Graduate of [Point Blank](http://www.pointblankmusicschool.com) and the mighty [Mr. Bristow](http://www.mrbristow.co.uk)", 
         "Assistant Organizer for [Developers who DJ](http://www.meetup.com/Developers-who-DJ)"
       ]
     biography = """Player of 80s/90s/00s Pop/Disco/R&B/EDM, 
