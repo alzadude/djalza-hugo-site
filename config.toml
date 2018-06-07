@@ -52,8 +52,8 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
         "Graduate of [Point Blank](http://www.pointblankmusicschool.com) and the mighty [Mr. Bristow](http://www.mrbristow.co.uk)", 
         "Assistant Organizer for [Developers who DJ](http://www.meetup.com/Developers-who-DJ)"
       ]
-    biography = """Player of 80s/90s/00s Pop/Disco/R&B/EDM, 
-and dabbler in House/Techno/Trance..
+    biography = """Player of 80s/90s/00s Disco/Electro/Funk, 
+and dabbler in Garage/House/Techno..
 Check me out on [Mixcloud](https://www.mixcloud.com/dj-alza/) :)"""
 
   # Contact form settings
